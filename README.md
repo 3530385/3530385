@@ -1,4 +1,4 @@
-## Hi there 👋
+![alt text](https://wakatime.com/share/@e3530385/79e36985-2b6e-4471-b4fd-ada04471d209.svg)
 
 <!--
 **3530385/3530385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
